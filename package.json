@@ -1,0 +1,13 @@
+{
+  "name": "loots-webpack",
+  "version": "1.0.0",
+  "description": "记录 webpack 常用配置",
+  "main": "index.js",
+  "repository": "https://github.com/sworlife/loots-webpack.git",
+  "author": "sworlife <sworlife@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lodash": "^4.17.15",
+    "webpack-merge": "^4.2.2"
+  }
+}
